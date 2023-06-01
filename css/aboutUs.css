@@ -1,0 +1,17 @@
+
+
+.content-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode";
+    padding: 40px;
+    z-index: 1;
+   
+}
+h1{
+    outline: 0px solid #162544;
+    padding: 12px;
+}
